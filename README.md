@@ -36,8 +36,9 @@ You can either Mine in Pool or solo mining
  
  
 # Pool 
-Mine in this pool http://kgh.kwagsh.xyz 
-Mine in this pool https://pool.kwagsh.xyz 
+Mine in this pool http://kgh.kwagsh.xyz
+
+Mine in this pool http://pool.kwagsh.xyz 
  
 # Explorer 
 http://explorer.kwagsh.xyz 
