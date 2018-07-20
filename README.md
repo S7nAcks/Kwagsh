@@ -37,5 +37,3 @@ You can either Mine in Pool or solo mining
  
 # Pool  
 Mine in this pool http://pool.kwagsh.xyz 
-commit:97bb7e
-Update README.md
