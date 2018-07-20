@@ -1,0 +1,40 @@
+Release Notes 3.0.2
+Kwagsh plan his second stage for the upcoming hard fork to heavy algorithm
+- New network identifiers to ensure that every single Users, Poolowner, Exchange update their Kwagsh Software
+- Upgrade the core to Cryptonight-Heavy / ASIC Resistant
+- Switch to newest Zawy LWMA-2 Difficulty algorithm
+- Upgrade Blocksize for creating larger Blocks and Transactions
+- Increase Syncperformance
+- Load Checkpoints from CSV file (CLI Only)
+- Better Rpc error code handling
+- Unmixable dust update
+- Fix Debug for win32 systems
+- Check for fee address
+- Checked double bug. ok. this make 2nd key track 
+- Added RPC method validateaddress
+- New branding
+
+Release Notes 2.1.2
+Kwagsh has a Hardfork @ Block Height 23001 and 54901
+-New Network Identifiers, New P2P Trust Key and new Set of Masternodes.
+ 
+Release notes Kwagsh 1.0.1
+
+- Android platform support
+- Added logging to blockchain synchronizer
+- Refactored mnemonics
+- Fixed memory leaks in mnemonics
+- Fixed memory leak in simplewallet
+- Fixed memory leak in cn_slow_hash
+- Minor optimization of JSON KV-serializer
+- LoggerMessage implementation is now platform-independent
+- Deterministic wallets and Mnemonic seed, courtesy of Monero Developers
+- Various build fixes
+- Transactions confirmations in RPC response for walletd
+- Log file location for simplewallet
+- New RPC methods
+- Support for solo GPU mining
+- Additional validation and attribution
+
+
+Kwagsh project is moved to GitHub
