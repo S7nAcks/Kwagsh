@@ -8,4 +8,4 @@ build_script:
     - md build
     - cd build
     - cmake -G "Visual Studio 15 Win64" ..
-    - MSBuild Kwagsh.sln /target:CryptoNoteCore
+    - MSBuild Kwagsh.sln /target:SimpleWallet
