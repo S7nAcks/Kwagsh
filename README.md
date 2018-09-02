@@ -21,7 +21,7 @@ Download the project from github
 sudo git clone https://github.com/kwash-dev/kwagsh.git  
 ``` 
 ``` 
-cd kwagsh sudo mkdir build && cd build && sudo mkdir release && cd release sudo cmake CMAKE_BUILD_TYPE=Release ../.. && sudo make 
+cd kwagsh && sudo mkdir build && cd build && sudo mkdir release && cd release && sudo cmake CMAKE_BUILD_TYPE=Release ../.. && sudo make 
 ``` 
 # After built is completed run the daemon 
 ``` 
