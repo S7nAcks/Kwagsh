@@ -142,17 +142,8 @@ const uint32_t P2P_IDLE_CONNECTION_KILL_INTERVAL             = (5 * 60);      //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "d0f8539a114a5f34640f5acd8ba0ad7dcdd82e1cb6fae17db399389c20b9522e";
 
 const char* const SEED_NODES[] = { 
- "80.211.12.28:25386",// teko
-  "80.211.163.119:25386",// un
-  "94.177.164.118:25386",//kwagsh
-  "194.182.87.111:25386",//kwag
-  "81.2.240.84:25386",// kwnode
-  "185.28.101.189:25386",//AGool
-  "194.182.69.92:25386",  //paguru
-  "185.58.226.228:25386",//kgh
-  "89.46.65.250:25386",  //ag
-  "212.237.3.251:25386",  //ladz
-  "node1.kwagsh.xyz:25386"
+  "208.97.141.93:25386",
+  "216.250.114.226:25386"
 };
 
 } // CryptoNote
