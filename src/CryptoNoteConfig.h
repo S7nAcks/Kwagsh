@@ -27,7 +27,7 @@
 namespace CryptoNote {
 namespace parameters {
 
-const uint64_t DIFFICULTY_TARGET                              = 120;
+const uint64_t DIFFICULTY_TARGET                              = 10;
 const uint64_t CRYPTONOTE_MAX_BLOCK_NUMBER                    = 500000000;
 const size_t   CRYPTONOTE_MAX_BLOCK_BLOB_SIZE                 = 500000000;
 const size_t   CRYPTONOTE_MAX_TX_SIZE                         = 1000000000;
